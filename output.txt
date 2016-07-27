@@ -1,0 +1,13 @@
+$ g++ main.cpp data_analysis.cpp
+$ ./a.out
+Data x:
+- Number of values: 12
+- Class 0: [ 0 1 2 3 ] (Size: 4)
+- Class 1: [ 4 5 6 7 ] (Size: 4)
+- Class 2: [ 8 8 9 9 ] (Size: 4)
+
+Data y:
+- Number of values: 7
+- Class 0: [ 0.789 2 2 ] (Size: 3)
+- Class 1: [ 4 6 ] (Size: 2)
+- Class 2: [ 8.7 9 ] (Size: 2)
