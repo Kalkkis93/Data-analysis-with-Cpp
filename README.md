@@ -22,8 +22,7 @@ The code in main.cpp reads the file, picks up those numbers, completes k means a
 
 Here's what it prints on the command line:
 
-$ g++ main.cpp data_analysis.cpp
-$ ./a.out
+$ g++ main.cpp data_analysis.cpp; ./a.out
 Data x:
 - Number of values: 12
 - Class 0: [ 0 1 2 3 ] (Size: 4)
