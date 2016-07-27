@@ -3,11 +3,11 @@
 A little data analysis project with C++.
 
 Functions:
-  readAndCleanFile: reads file and pics up all the decimal numbers
-  kmeans: completes k means algorithm to some vector
-  knn: completes k nearest neighbors algorithms to some vector
-  printData: prints the data
-  sort: sorts the vector
+- readAndCleanFile: reads file and pics up all the decimal numbers
+- kmeans: completes k means algorithm to some vector
+- knn: completes k nearest neighbors algorithms to some vector
+- printData: prints the data
+- sort: sorts the vector
 
 File input.txt includes the following lines:
   3.0 6 --7 8 8.x 2 9 4 8 1 0_ 9 7 0 5
